@@ -1,0 +1,10 @@
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\bin\Debug\Mini_Projet_Recettes.exe.config
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\bin\Debug\Mini_Projet_Recettes.exe
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\bin\Debug\Mini_Projet_Recettes.pdb
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.frmCommentaires.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.Properties.Resources.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.csproj.GenerateResource.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.exe
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Mini_Projet_Recettes\Mini_Projet_Recettes\obj\Debug\Mini_Projet_Recettes.pdb
